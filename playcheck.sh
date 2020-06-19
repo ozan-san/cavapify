@@ -1,5 +1,4 @@
 #!/bin/bash
-
 img_url=""
 
 while :
